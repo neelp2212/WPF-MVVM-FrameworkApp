@@ -1,0 +1,39 @@
+# Ignore Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore package and dependency files
+packages/
+*.nupkg
+*.snupkg
+
+# Ignore NuGet restore result
+project.lock.json
+project.fragment.lock.json
+
+# Ignore Rider IDE project files
+.idea/
+*.iml
+
+# Ignore temporary files
+*.log
+*.cache
+*.pdb
+*.tmp
+
+# Ignore Test Results
+TestResults/
+
+# Ignore local settings and configuration
+appsettings.Development.json
+appsettings.Local.json
+
+# Ignore publish output
+publish/

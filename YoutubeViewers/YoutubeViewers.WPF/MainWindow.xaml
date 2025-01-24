@@ -7,6 +7,5 @@
         mc:Ignorable="d"
         Title="Youtube Viewers" Height="450" Width="800">
     <Grid>
-        <YouTube
     </Grid>
 </Window>

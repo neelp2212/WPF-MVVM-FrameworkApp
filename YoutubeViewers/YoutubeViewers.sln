@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeViewers.WPF", "YoutubeViewers.WPF\YoutubeViewers.WPF.csproj", "{63B26C61-70AA-482E-B1EE-9C986B4ED418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeViewers", "..\..\YouTubeViewers\YouTubeViewers.csproj", "{75BDB992-A661-4A2E-AE6C-3043F9CBE2F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{63B26C61-70AA-482E-B1EE-9C986B4ED418}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63B26C61-70AA-482E-B1EE-9C986B4ED418}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63B26C61-70AA-482E-B1EE-9C986B4ED418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BDB992-A661-4A2E-AE6C-3043F9CBE2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BDB992-A661-4A2E-AE6C-3043F9CBE2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BDB992-A661-4A2E-AE6C-3043F9CBE2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BDB992-A661-4A2E-AE6C-3043F9CBE2F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
